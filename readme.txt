@@ -17,9 +17,6 @@ Once active, a Posts Generator user will be created for later use.
 In the Tools page, you can set the Title, Content, Post Type and number of posts to be generated.
 Once you're done with the data, you may then delete the user since all generated posts will be under the Posts Generator user. 
 
-Things to take note about this plugin:
-While the plugin is active, a user "__ Post_Generator __" is created and if deleted, will be recreated.
-
 == Installation ==
 How to install the plugin and get it working.
 
@@ -37,6 +34,10 @@ This is a straight forward plugin. And the steps below will summarize what you w
 * Select the post type where the posts are going to be inserted
 * Generate the Posts
 * Once done testing, you may delete the user "__Post_Generator__" then select "Delete all content." then all generated posts will be deleted
+
+
+= Things to take note about this plugin =
+While the plugin is active, a user "__ Post_Generator __" is created and if deleted, will be recreated.
 
 == Screenshots ==
 
