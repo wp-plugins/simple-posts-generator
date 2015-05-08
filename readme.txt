@@ -23,8 +23,6 @@ While the plugin is active, a user "__ Post_Generator __" is created and if dele
 == Installation ==
 How to install the plugin and get it working.
 
-e.g.
-
 1. Upload `simple-post-generator/` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to Tools > Simple Post Generator, to start
@@ -33,10 +31,11 @@ e.g.
 
 = How to use the plugin =
 This is a straight forward plugin. And the steps below will summarize what you will do with it:
-* Write a base post title.
-* Write a content to be the content of all generated posts.
-* Select the post type where the posts are going to be inserted.
-* Generate the Posts.
+
+* Write a base post title
+* Write a content to be the content of all generated posts
+* Select the post type where the posts are going to be inserted
+* Generate the Posts
 * Once done testing, you may delete the user "__Post_Generator__" then select "Delete all content." then all generated posts will be deleted
 
 == Screenshots ==
