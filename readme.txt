@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: raeven
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UBJF27WXZUHD2&lc=PH&item_name=Earl%20Evan%20Amante&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: post, generator
+Tags: post, generator, tool, wordpress, wordpress.org
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.3
