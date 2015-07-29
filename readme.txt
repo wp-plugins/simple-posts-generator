@@ -3,8 +3,8 @@ Contributors: raeven
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UBJF27WXZUHD2&lc=PH&item_name=Earl%20Evan%20Amante&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: post, generator, tool, wordpress, wordpress.org
 Requires at least: 3.0.1
-Tested up to: 4.2.2
-Stable tag: 1.3
+Tested up to: 4.2.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,9 @@ While the plugin is active, a user "__ Post_Generator __" is created and if dele
 == Screenshots ==
 
 == Changelog ==
+
+= 1.3.1 =
+* Updated the documents to be compatible with WP 4.2.3
 
 = 1.3 =
 * Initial Version (No version 1.0)

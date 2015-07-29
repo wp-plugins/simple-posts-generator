@@ -3,9 +3,9 @@
  * Plugin Name: Simple Posts Generator
  * Plugin URI: https://wordpress.org/plugins/simple-posts-generator/
  * Description: A simple User and Post generator for testers and developers
- * Version: 1.3
+ * Version: 1.3.1
  * Author: Earl Evan Amante
- * Author URI: https://profiles.wordpress.org/raeven
+ * Author URI: https://github.com/earlamante/
  * License: GPL2
  */
 	/**
